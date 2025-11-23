@@ -1,0 +1,6 @@
+Proyecto 3 - Archivo de ejemplo
+
+Este es un archivo de ejemplo para probar la descarga desde la sección "Proyectos".
+
+Autor: David Calderón Vásquez
+Fecha: 2025-11-12
